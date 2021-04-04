@@ -33,6 +33,15 @@ body{
     border: 0;
     color: #000875;
 }
+#intro p{
+    border: 5px solid gold;
+    color: blue;
+}
+#paragraf-1{
+    font-size: 40px;
+    color: red;
+    background: green;
+}
 
 /* Class Selector */
 .button{
@@ -45,4 +54,8 @@ body{
 }
 .btn-primary{
     background: #000875;
+}
+.text-paragraf{
+    color: black;
+    text-align: center;
 }
